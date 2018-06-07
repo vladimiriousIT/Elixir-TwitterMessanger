@@ -1,6 +1,4 @@
-# PlurlTweet
-
-**TODO: Add description**
+# Twitter Messanger with Elixir
 
 ## Installation
 
