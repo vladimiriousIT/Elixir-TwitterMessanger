@@ -1,0 +1,10 @@
+{application,plurl_tweet,
+             [{applications,[kernel,stdlib,elixir,logger,quantum,credo]},
+              {description,"plurl_tweet"},
+              {modules,['Elixir.PlurlTweet','Elixir.PlurlTweet.Application',
+                        'Elixir.PlurlTweet.FileReader',
+                        'Elixir.PlurlTweet.Scheduler']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {extra_applications,[logger,quantum]},
+              {mod,{'Elixir.PlurlTweet.Application',[]}}]}.
