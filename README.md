@@ -1,4 +1,33 @@
+![Elixir](https://github.com/elixir-lang/elixir-lang.github.com/raw/master/images/logo/logo.png)
+========
 # Twitter Messanger with Elixir
+
+Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
+
+For more about Elixir, installation and documentation,
+[check Elixir's website](http://elixir-lang.org/).
+
+[ ~> Documentation about Elixir](https://elixir-lang.org/docs.html).
+
+```elixir
+def deps do
+  [
+    the package can be installed by adding `[name_application]` to your list of dependencies in `mix.exs`
+  ]
+end
+```
+Documentation can be generated with [ExDoc]
+and published on [HexDocs](https://hexdocs.pm).
+
+## Compiling from source
+
+To run Elixir from source, clone this repository to your machine, compile and test it:
+
+```sh
+git clone github.com/....
+cd elixir
+make clean test
+```
 
 ## Installation
 
