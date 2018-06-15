@@ -24,7 +24,7 @@ and published on [HexDocs](https://hexdocs.pm).
 To run Elixir from source, clone this repository to your machine, compile and test it:
 
 ```sh
-git clone github.com/....
+git clone https://github.com/vladimiriousIT/Twitter-Messanger-Elixir
 cd elixir
 make clean test
 ```
