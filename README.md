@@ -1,4 +1,4 @@
-![Elixir](https://github.com/elixir-lang/elixir-lang.github.com/raw/master/images/logo/logo.png) 
+![Elixir](https://cdn-images-1.medium.com/max/800/1*rmpXrcjrtnOWG9xCt3CEvw.jpeg) 
 ![Twitter](http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png)
 ========
 # Twitter Messanger with Elixir
