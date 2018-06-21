@@ -1,4 +1,4 @@
-![Elixir](https://cdn-images-1.medium.com/max/800/1*rmpXrcjrtnOWG9xCt3CEvw.jpeg) 
+![Elixir](https://raw.githubusercontent.com/docker-library/docs/f3ee5318992592f987a289cd72d63ac1807f569d/elixir/logo.png) 
 ![Twitter](http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png)
 ========
 # Twitter Messanger with Elixir
